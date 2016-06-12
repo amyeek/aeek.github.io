@@ -1,0 +1,71 @@
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 548px;
+       height: 100%;
+    }
+
+    header {
+        background-color: yellow;
+        padding:;
+        font-size: 25;
+        display: block;
+        width: 548px;
+        text-align:center;
+        color: blue;
+        font-family: monospace;
+    }
+    nav {
+        float: center;
+    }
+    nav ul {
+        padding: ;
+        float: center;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 30px 8px 30px;
+        /*vertical-align: middle;*/
+
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 518px;
+        display: inline-block;
+        float: left;
+        background-color:blue;
+        color: white;
+        padding: 15px;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        padding: 3px;
+        width: 542px;
+        background-color:black;
+        color:white;
+        clear: both;
+        display: block;
+        text-align: center;
+
+    }
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy S
